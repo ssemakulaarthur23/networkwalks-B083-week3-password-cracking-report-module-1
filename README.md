@@ -45,3 +45,10 @@ Used OnlineHashCrack PDF Hash Extractor:
 Example hash format:
 ```text
 $pdf$4*4*128*-1060*1*16*...*32*...
+Key takeaway:
+
+Encryption is a two-way function — encrypted data can be decrypted with the right key.
+
+Hashing is one-way — it scrambles plaintext into a unique message digest.
+
+Weak passwords can be cracked quickly, so strong, unique passwords and password managers are essential.
