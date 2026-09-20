@@ -2,7 +2,7 @@
 
 ## Objective
 Use John the Ripper (JTR) and Johnny GUI to recover the password of a protected PDF file on Windows.  
-This lab demonstrates how password cracking works and why strong passwords are important.
+This lab demonstrates how password cracking works and why strong passwords are important. All evidence of this project is in the screenshots above
 
 ## Tools Used
 - John the Ripper (JTR) – https://www.openwall.com/john/
